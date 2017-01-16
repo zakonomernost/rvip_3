@@ -1,0 +1,1 @@
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\Server\bin\Debug\Server.exe.config

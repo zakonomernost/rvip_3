@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{35239641-F7B2-476F-ADC7-B27964B5A720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication2", "WindowsFormsApplication2\WindowsFormsApplication2.csproj", "{77DB7174-F839-4544-BB90-CFD3E3B6356D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35239641-F7B2-476F-ADC7-B27964B5A720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35239641-F7B2-476F-ADC7-B27964B5A720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35239641-F7B2-476F-ADC7-B27964B5A720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35239641-F7B2-476F-ADC7-B27964B5A720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77DB7174-F839-4544-BB90-CFD3E3B6356D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DB7174-F839-4544-BB90-CFD3E3B6356D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DB7174-F839-4544-BB90-CFD3E3B6356D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DB7174-F839-4544-BB90-CFD3E3B6356D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

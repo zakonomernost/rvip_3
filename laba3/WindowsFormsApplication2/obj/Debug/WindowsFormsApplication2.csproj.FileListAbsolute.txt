@@ -1,0 +1,12 @@
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Client.resources
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\User\Desktop\RViP_laba3-master\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\User\Desktop\RViP_laba3-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\User\Desktop\RViP_laba3-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

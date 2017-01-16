@@ -1,0 +1,12 @@
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Server.resources
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\RViP_laba3-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\User\Desktop\RViP_laba3-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\RViP_laba3-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

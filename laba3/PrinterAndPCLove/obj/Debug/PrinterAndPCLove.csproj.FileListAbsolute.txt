@@ -1,0 +1,5 @@
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\PrinterAndPCLove\bin\Debug\PrinterAndPCLove.exe.config
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\PrinterAndPCLove\bin\Debug\PrinterAndPCLove.exe
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\PrinterAndPCLove\bin\Debug\PrinterAndPCLove.pdb
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\PrinterAndPCLove\obj\Debug\PrinterAndPCLove.exe
+C:\Users\Дарья\Documents\Visual Studio 2013\Projects\HTTPServer\PrinterAndPCLove\obj\Debug\PrinterAndPCLove.pdb
